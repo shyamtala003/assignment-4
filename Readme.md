@@ -9,7 +9,9 @@
 
 >I Deployed my Site on Netlify and Vercel. so you can check it out 👇
 <br> [https://bussiness-starship.netlify.app](https://bussiness-starship.netlify.app)
-<br> [assignment-4-6s2dnv4n5-shyamtala003.vercel.app](assignment-4-6s2dnv4n5-shyamtala003.vercel.app)
+<br> [assignment-4-kappa.vercel.app
+](assignment-4-kappa.vercel.app
+)
 
 ## What I Learned from this Project?
 
